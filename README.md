@@ -1,2 +1,2 @@
 # Turkish-StopWords
-Including Turkish stopwords
+Including Turkish stopwords (Natural Language Processing)
